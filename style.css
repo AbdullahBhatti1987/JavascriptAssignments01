@@ -1,0 +1,20 @@
+.assignment figure img{
+    max-width: 300px;
+    min-width: 150px;
+    height: 200px;    
+    border-radius: 25px;
+}
+.assignment{
+    justify-content: center;
+}
+.assignment div{
+    border-radius: 25px;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.assignment div:hover{
+    cursor: pointer;
+    box-shadow: 0px 5px 5px black;
+}
+
